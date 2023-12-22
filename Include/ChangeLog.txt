@@ -1,0 +1,21 @@
+1.0.02 (27th Feb. 2004)
+- Added: _FileCountLines(), _DirRemoveContents()
+- Added: _DateDaysInMonth()
+- Added: _DateIsValidMonthNum(), _DateIsValidWeekdayNum(), _DateIsValidYear()
+- Added: _TimeIsValidHour(), _TimeIsValidMinute(), _TimeIsValidSecond()
+- Added: Usage syntax now included for documentation
+- Added: Documentation updates
+- Changed: _FileReadToArray() so it executes faster
+- Changed: (Internal) Enhanced the way the date/time functions operate
+- Changed: (Internal) File functions now use new file read/write syntax
+- Fixed: _RunDOS() to support executing DOS commands with spaces in the command
+
+
+1.0.01 (5th Feb. 2004)
+- Added: _ColorGetRed(), _ColorGetGreen(), _ColorGetBlue()
+- Added: _RunDOS()
+- Fixed: _TicksToTime() and _TimeToTicks()
+
+
+1.0.00 (21st Jan. 2004)
+- Initial release
