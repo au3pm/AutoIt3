@@ -19,7 +19,7 @@
 ;                                ignored)
 ;                   On Failure - Returns 0 if there is an error removing the
 ;                                directory (or if directory does not exist)
-; Author(s):        Jonathan Bennett <jon@hiddensoft com>
+; Author(s):        Jonathan Bennett <jon at hiddensoft com>
 ; Note(s):          None
 ;
 ;===============================================================================
@@ -183,7 +183,7 @@ EndFunc
 ; Requirement(s):   None
 ; Return Value(s):  On Success - Returns 1
 ;                   On Failure - Returns 0 and sets @error = 1
-; Author(s):        Jonathan Bennett <jon@hiddensoft.com>
+; Author(s):        Jonathan Bennett <jon at hiddensoft com>
 ; Note(s):          None
 ;
 ;===============================================================================
@@ -200,7 +200,7 @@ Func _FileReadToArray( $sFilePath, ByRef $aArray )
     Return 0
   EndIf
 
-  $aArray = StringSplit( FileReadLine( $hFile, FileGetSize( $sFilePath ) ), @LF )
+  $aArray = StringSplit( FileRead( $hFile, FileGetSize( $sFilePath ) ), @LF )
 
   FileClose( $hFile )
   Return 1

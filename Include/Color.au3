@@ -17,7 +17,7 @@
 ; Requirement(s):   None
 ; Return Value(s):  On Success - Returns the component color in the range 0-255
 ;                   On Failure - None
-; Author(s):        Jonathan Bennett <jon@hiddensoft com>
+; Author(s):        Jonathan Bennett <jon at hiddensoft com>
 ; Note(s):          None
 ;
 ;===============================================================================
@@ -34,7 +34,7 @@ EndFunc
 ; Requirement(s):   None
 ; Return Value(s):  On Success - Returns the component color in the range 0-255
 ;                   On Failure - None
-; Author(s):        Jonathan Bennett <jon@hiddensoft com>
+; Author(s):        Jonathan Bennett <jon at hiddensoft com>
 ; Note(s):          None
 ;
 ;===============================================================================
@@ -51,7 +51,7 @@ EndFunc
 ; Requirement(s):   None
 ; Return Value(s):  On Success - Returns the component color in the range 0-255
 ;                   On Failure - None
-; Author(s):        Jonathan Bennett <jon@hiddensoft com>
+; Author(s):        Jonathan Bennett <jon at hiddensoft com>
 ; Note(s):          None
 ;
 ;===============================================================================

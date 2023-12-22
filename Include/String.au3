@@ -57,7 +57,7 @@ EndFunc
 ; Requirement(s):   None
 ; Return Value(s):  On Success - Returns reversed string
 ;                   On Failure - Returns an empty string and sets @error = 1
-; Author(s):        Jonathan Bennett <jon@hiddensoft.com>
+; Author(s):        Jonathan Bennett <jon at hiddensoft com>
 ; Note(s):          None
 ;
 ;===============================================================================

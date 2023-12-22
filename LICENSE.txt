@@ -1,0 +1,80 @@
+OVERVIEW
+========
+
+   AutoIt is copyrighted software distributed under the terms
+   of the GNU General Public License (hereinafter the "GPL").
+
+   The stub (AutoItSC.bin) which is imbedded in each AutoIt compiled 
+   script is part of AutoIt, and contains code that is under our copyright. 
+   The terms of the GNU General Public License still apply as compiling
+   a script is a special form of linking with our stub.
+
+   As a special exception we grant the free usage of AutoIt compiled
+   scripts, including commercial programs.
+   See below for details and restrictions.
+
+
+COPYRIGHT
+=========
+
+   AutoIt is copyrighted software. All rights remain with the authors.
+
+   AutoIt is Copyright (C)1999-2004 Jonathan Bennett & the AutoIt team.
+
+
+GNU GENERAL PUBLIC LICENSE
+==========================
+
+   AutoIt is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+
+   AutoIt is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this program; see the file COPYING.txt.
+
+
+SPECIAL EXCEPTION FOR COMPILED EXECUTABLES
+==========================================
+
+   The stub (AutoItSC.bin) which is imbedded in each AutoIt compiled 
+   script is part of AutoIt, and contains code that is under our copyright. 
+   The terms of the GNU General Public License still apply as compiling
+   a script is a special form of linking with our stub.
+
+   Jonathan Bennett and the AutoIt team grant you special permission to 
+   freely use and distribute all AutoIt compiled scripts (including 
+   commercial ones), subject to the following restrictions:
+
+   1. You must compile your script with a completely unmodified AutoIt
+      version; either with our precompiled version, or (at your option)
+      with a self compiled version of the unmodified AutoIt sources as
+      distributed by us.
+   2. This also implies that the AutoIt stub must be completely unmodified 
+      (with the exception of the stub file version information that you MAY
+      modify if you wish).
+
+
+ANNOTATIONS
+===========
+
+  - You can use a modified AutoIt version or modified AutoIt stub only for
+    programs that are compatible with the GNU General Public License.
+
+  - We grant you special permission to freely use and distribute all AutoIt
+    compiled programs.
+
+  - You can integrate all or part of AutoIt into projects that are compatible
+    with the GNU GPL, but obviously you cannot grant any special exceptions 
+    beyond the GPL for our code in your project.
+
+
+Jonathan Bennett
+support@hiddensoft.com
+
+25 March 2004
